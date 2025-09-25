@@ -1,2 +1,3 @@
-# license
-IzzyAcademy MIT Educational License
+## IzzyAcademy MIT Educational License
+
+The educational attribution license based on the MIT license.
